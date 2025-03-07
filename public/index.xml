@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heewon Chung</title>
-    <link>http://localhost:1313/</link>
+    <link>https://heewonchung.github.io/</link>
     <description>Recent content on Heewon Chung</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://heewonchung.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://heewonchung.github.io/about/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://heewonchung.github.io/about/</guid>
       <description>&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;Doctor of Philosophy in Mathematics, Seoul National University&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ph.D. in Mathematics&lt;/strong&gt;, KAIST, 2017&#xA;Thesis: Secure Computation via Homomorphic Encryption&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.S. in Mathematics&lt;/strong&gt;, POSTECH, 2011&#xA;Thesis: Efficient Inversion Algorithms and Its Application to ECDLP&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.S. in Mathematics&lt;/strong&gt;, Korea Advanced Institute of Science and Technology (KAIST), 2010&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;career&#34;&gt;Career&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>https://heewonchung.github.io/publications/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>https://heewonchung.github.io/publications/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10572359&#34;&gt;Multiparty Delegated Private Set Union with Efficient Updates on Outsourced Data&lt;/a&gt;&lt;br&gt;&#xA;  Heewon Chung, Myungsum Kim, and Chulsoon Patick Yang&lt;br&gt;&#xA;  IEEE Transactions on Dependable and Secure Computing (early access)&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;&#34;&gt;Authentication of Multi-agent System with Verifiable Computation&lt;/a&gt;&lt;br&gt;&#xA;  Seungbum Lee, Dongwoo Kim, Heewon Chung, Junsoo Kim, Hyungbo Shim&lt;br&gt;&#xA;  IEEE Conference on Decision and Control 2024&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10127630&#34;&gt;Amortized Efficient zk-SNARKs from Linear-Only RLWE Encodings&lt;/a&gt;&lt;br&gt;&#xA;  Heewon Chung, Dongwoo Kim, Jeong Han Kim, Jiseung Kim&lt;br&gt;&#xA;  Journal of Communications and Networks 25(3) 271-284, 2023&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>http://localhost:1313/teaching/</link>
+      <link>https://heewonchung.github.io/teaching/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/</guid>
+      <guid>https://heewonchung.github.io/teaching/</guid>
       <description>&lt;h3 id=&#34;2025-spring&#34;&gt;2025 Spring&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;디지털 공학&lt;/li&gt;&#xA;&lt;li&gt;데이터 실무 응용&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2024-fall&#34;&gt;2024 Fall&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2024-spring&#34;&gt;2024 Spring&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;블록체인 실무 응용&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
